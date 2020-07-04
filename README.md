@@ -2,10 +2,7 @@
 MVP架构在Android的使用。
 Okhttp3、Retrofit2、Rxjava3 ，AutoDispose解决RxJava内存泄漏
 
-简书地址：https://www.jianshu.com/p/ae0b21d3238a  
-
-
-2020年5月28日 15:05:09 修改
+2020年7月4日  修改
 
 更新为AndroidX
 依赖更新为当前最新版本
