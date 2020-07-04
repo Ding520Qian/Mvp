@@ -18,6 +18,8 @@ Autodispose 2.0 中已包含Rxjava3以及Rxjava3rxAndroid 依赖
       implementation 'com.squareup.retrofit2:retrofit:2.9.0'
       implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
       implementation 'com.squareup.retrofit2:adapter-rxjava3:2.9.0'
+      //butterknife
+      implementation 'com.jakewharton:butterknife:10.2.1'
 
       //AutoDispose解决RxJava内存泄漏
       implementation 'com.uber.autodispose2:autodispose:2.0.0'
