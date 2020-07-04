@@ -11,13 +11,16 @@ Autodispose 2.0 中已包含Rxjava3以及Rxjava3rxAndroid 依赖
 
 
 使用的第三方库:  
+
     //okhttp3
       implementation 'com.squareup.okhttp3:okhttp:4.2.0'
       implementation "com.squareup.okhttp3:logging-interceptor:3.10.0"
+      
       //retrofit2
       implementation 'com.squareup.retrofit2:retrofit:2.9.0'
       implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
       implementation 'com.squareup.retrofit2:adapter-rxjava3:2.9.0'
+      
       //butterknife
       implementation 'com.jakewharton:butterknife:10.2.1'
 
